@@ -14,7 +14,7 @@
 - 👯 I am looking forward to writing a perfect passive web vulnerability scanner
 - ✨ Pronouns: He/him
 - 🛸 Fun fact: I can code without coffee
-- 💬 扣扣: MjY1Mjk5ODMxNA==
+- 💬 QQ: MjY1Mjk5ODMxNA==
 
 
 
@@ -24,15 +24,12 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-<!--
-
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
--->
 
 ```
 ⌚︎ Timezone: Asia/Calcutta
