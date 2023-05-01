@@ -3,7 +3,7 @@
 ##  About :sunglasses:
 
 <p align="center">
-  <img align="right" src="https://media.giphy.com/media/j2NDJZct5aXPzQItQ9/giphy.gif" width="300" height="300" />
+  <img align="right" src="https://raw.githubusercontent.com/XTeam-Wing/XTeam-Wing/master/code.gif" width="300" height="300" />
 </p>
 
 
